@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "星野源 - Mad Hope【MAD HOPE Japan Tour 2025】",
+  "base_artist": "星野源",
+  "createdAt": "2025-12-26T16:48:22.566540Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Into the Sun feat. 星野源, Stephen Malkmus & Pi Ja Ma",
+      "artist": "Superorganism",
+      "has_synced": true,
+      "path": "select/01_Into_the_Sun_feat._星野源,_Stephen_Malkmus_&_Pi_Ja_Ma_Superorganism.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "01. 星野源 - ドラえもん",
+      "artist": "星野源",
+      "has_synced": true,
+      "path": "select/02_01._星野源_-_ドラえもん_星野源.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "02. 星野源 - ここにいないあなたへ",
+      "artist": "星野源",
+      "has_synced": true,
+      "path": "select/03_02._星野源_-_ここにいないあなたへ_星野源.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mad Hope - Short (feat. Louis Cole, Sam Gendel)",
+      "artist": "星野源",
+      "has_synced": false,
+      "path": "select/pl_01_Mad_Hope_-_Short_(feat._Louis_Cole,_Sam_Gendel)_星野源.txt"
+    }
+  ]
+}
